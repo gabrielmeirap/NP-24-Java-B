@@ -9,7 +9,7 @@ public class ArteAscii1 {
        System.out.println("▓      ▓");
        System.out.println("▓ ▓  ▓ ▓");
        System.out.println("▓  ▓▓  ▓");
-       System.out.println(" ▓    ▓ "   );
+       System.out.println(" ▓    ▓ ");
        System.out.println("  ▓▓▓▓");
 	}
 
